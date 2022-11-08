@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.listaContacto{
+    background-color: gainsboro;
+    width: 30%;
+    border-radius: 10px;
+}
+
+h2{
+    background-color: rgb(158, 103, 209);
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
